@@ -1,5 +1,5 @@
 # AWS-Resources  
-[aws.amazon.com](https://aws.amazon.com/){:target="_blank"}  
+[aws.amazon.com](https://aws.amazon.com/?target=_blank)  
 [docs.aws.amazon.com](https://docs.aws.amazon.com/?nc2=h_ql_doc_do){:target="_blank"}  
 [AWS Marketplace](https://aws.amazon.com/marketplace/){:target="_blank"}  
 [AWS Pricing](https://aws.amazon.com/pricing/?nc2=h_ql_pr_ln&aws-products-pricing.sort-by=item.additionalFields.productNameLowercase&aws-products-pricing.sort-order=asc&awsf.Free%20Tier%20Type=*all&awsf.tech-category=*all){:target="_blank"}  
