@@ -7,3 +7,8 @@
 [AWS Events](https://aws.amazon.com/events/?nc2=h_ql_ev_ev)  
 [AWS Skillbuilder](https://explore.skillbuilder.aws/)   
 [AWS Reskill](https://awsreskill.com/)  
+[AWS Repost](https://repost.aws/)  
+[Serverless Land](https://serverlessland.com/)  
+[AWS Training and Certification](https://aws.amazon.com/training/)  
+[AWS re/Start](https://aws.amazon.com/training/restart/?nc2=sb_ep_res)  
+[AWS Academy](https://aws.amazon.com/training/awsacademy/?nc2=sb_ep_aca)
