@@ -12,3 +12,6 @@
 [AWS Training and Certification](https://aws.amazon.com/training/)  
 [AWS re/Start](https://aws.amazon.com/training/restart/?nc2=sb_ep_res)    
 [AWS Academy](https://aws.amazon.com/training/awsacademy/?nc2=sb_ep_aca)  
+[AWS Workshops](https://workshops.aws/)  
+[blog.theserverlessterminal.com](https://blog.theserverlessterminal.com/)  
+[github.com/acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)  
