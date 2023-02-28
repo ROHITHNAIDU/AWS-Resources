@@ -15,3 +15,6 @@
 [AWS Workshops](https://workshops.aws/)  
 [blog.theserverlessterminal.com](https://blog.theserverlessterminal.com/)  
 [github.com/acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)  
+[github.com/orgs/aws/repositories](https://github.com/orgs/aws/repositories)  
+[aws.github.io](https://aws.github.io/)  
+[github.com/aws-samples](https://github.com/aws-samples)  
