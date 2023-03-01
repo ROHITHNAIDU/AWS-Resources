@@ -14,7 +14,7 @@
 [AWS Workshops](https://workshops.aws/)  
 [Getting Started with AWS](https://aws.amazon.com/getting-started/)  
 [What's New with AWS](https://aws.amazon.com/new/)  
-[AWS Handson Tutorials](https://aws.amazon.com/getting-started/hands-on/?intClick=gsrc_navbar&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)  
+[AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?intClick=gsrc_navbar&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)  
 [Serverless Land](https://serverlessland.com/)   
 [blog.theserverlessterminal.com](https://blog.theserverlessterminal.com/)  
 [github.com/acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)  
