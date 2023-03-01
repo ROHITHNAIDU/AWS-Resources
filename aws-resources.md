@@ -15,6 +15,8 @@
 [Getting Started with AWS](https://aws.amazon.com/getting-started/)  
 [What's New with AWS](https://aws.amazon.com/new/)  
 [AWS hands-on tutorials](https://aws.amazon.com/getting-started/hands-on/?intClick=gsrc_navbar&getting-started-all.sort-by=item.additionalFields.content-latest-publish-date&getting-started-all.sort-order=desc&awsf.getting-started-category=*all&awsf.getting-started-level=*all&awsf.getting-started-content-type=*all)  
+[AWS Architecture Center](https://aws.amazon.com/architecture/?pg=gsrc&cards-all.sort-by=item.additionalFields.sortDate&cards-all.sort-order=desc&awsf.content-type=*all&awsf.methodology=*all&awsf.tech-category=*all&awsf.industries=*all&awsf.business-category=*all)  
+[The Amazon Builders' Library](https://aws.amazon.com/builders-library/?cards-body.sort-by=item.additionalFields.sortDate&cards-body.sort-order=desc&awsf.filter-content-category=*all&awsf.filter-content-type=*all&awsf.filter-content-level=*all)  
 [Serverless Land](https://serverlessland.com/)   
 [blog.theserverlessterminal.com](https://blog.theserverlessterminal.com/)  
 [github.com/acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)  
