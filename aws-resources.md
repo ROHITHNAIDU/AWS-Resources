@@ -12,6 +12,7 @@
 [AWS re/Start](https://aws.amazon.com/training/restart/?nc2=sb_ep_res)    
 [AWS Academy](https://aws.amazon.com/training/awsacademy/?nc2=sb_ep_aca)  
 [AWS Workshops](https://workshops.aws/)  
+[What's New with AWS](https://aws.amazon.com/new/)  
 [Serverless Land](https://serverlessland.com/)   
 [blog.theserverlessterminal.com](https://blog.theserverlessterminal.com/)  
 [github.com/acantril/learn-cantrill-io-labs](https://github.com/acantril/learn-cantrill-io-labs)  
